@@ -18,7 +18,6 @@
   <!--<img src="https://img.shields.io/badge/Written%20In-Nothing-cyan?style=flat-square">--!>
 </p>
 
-##
 
 <h1><p align="center">Sneaker Bot</p></h1>
 
@@ -39,8 +38,6 @@
 </details>
 
 
-# <!--used as a divider -->
-
 ## Installation
 
 - Just, download the latest version of `SneakerBot` here,
@@ -50,8 +47,6 @@
 ## Dependencies
 > You will need to install the dependencies from `requirements.txt`.
 
-
-# <!--used as a divider -->
 
 <h2 align="center">Thanks for reading :)</h2>
 
