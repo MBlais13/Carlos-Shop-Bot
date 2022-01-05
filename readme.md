@@ -6,13 +6,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.2-brightgreen?style=for-the-badge">
   
-  <img src="https://img.shields.io/github/license/MBlais13/Tudo-Productivity-App?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/MBlais13/SneakerBot?style=for-the-badge">
   
-  <img src="https://img.shields.io/github/stars/MBlais13/Tudo-Productivity-App?color=yellow&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/MBlais13/SneakerBot?color=yellow&style=for-the-badge">
   
-  <!--<img src="https://img.shields.io/github/issues/MBlais13/Tudo-Productivity-App?color=red&style=for-the-badge">
+  <!--<img src="https://img.shields.io/github/issues/MBlais13/SneakerBot?color=red&style=for-the-badge">
   -->
-  <img src="https://img.shields.io/github/forks/MBlais13/Tudo-Productivity-App?color=blue&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/MBlais13/SneakerBot?color=blue&style=for-the-badge">
 </p>
 
 <p align="center">
