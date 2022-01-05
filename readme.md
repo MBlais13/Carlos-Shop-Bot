@@ -23,7 +23,7 @@
 
 ##
 
-<h1><p align="center">Nike Sneaker Bot</p></h1>
+<h1><p align="center">Sneaker Bot</p></h1>
 
 <p align="center">Sneaker Bot is a stock bot made for the Nike website. Currently this bot is for notifications and autocart only.</p>
 
@@ -31,7 +31,7 @@
 - Auto Cart
 - Discord notifications
 - Windows notifications
-- ~~Autobuy~~ *discontinued*
+- ~~Autobuy~~ *removed*
 
 <details>
 <summary>Click here for screenshots</summary>
@@ -46,7 +46,7 @@
 
 ## Installation
 
-- Just, download the latest version of `SneakerBot` - 
+- Just, download the latest version of `SneakerBot` here,
 
 <a href="https://github.com/MBlais13" target="_blank"><img src="https://img.shields.io/badge/Download Here-1C1E23?style=for-the-badge&logo="></a>
 
