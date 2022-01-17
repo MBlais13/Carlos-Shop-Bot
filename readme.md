@@ -1,6 +1,6 @@
 <a href="https://mblais-portfolio.netlify.app/">
 <p align="center">
-  <img src="assets/CarlosBotCardLogo.png">
+  <img src="assets/CarlosBotLogo.png">
 </p>
 </a>
 <p align="center">
