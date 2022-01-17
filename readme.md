@@ -5,11 +5,11 @@
 </a>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.2-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/MBlais13/SneakerBot?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/MBlais13/SneakerBot?color=yellow&style=for-the-badge">
-  <!--<img src="https://img.shields.io/github/issues/MBlais13/SneakerBot?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/MBlais13/Carlos-Shop-Bot?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/MBlais13/Carlos-Shop-Bot?color=yellow&style=for-the-badge">
+  <!--<img src="https://img.shields.io/github/issues/MBlais13/Carlos-Shop-Bot?color=red&style=for-the-badge">
   -->
-  <img src="https://img.shields.io/github/forks/MBlais13/SneakerBot?color=blue&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/MBlais13/Carlos-Shop-Bot?color=blue&style=for-the-badge">
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 </p>
 
 
-<h1><p align="center">Sneaker Bot</p></h1>
+<h1><p align="center">Carlos Bot</p></h1>
 
-<p align="center">Sneaker Bot is a stock bot made for the Nike website. Currently this bot is for notifications and autocart only.</p>
+<p align="center">Carlos Bot is a stock bot made for getting the latest items. Currently this bot is for notifications and autocart only.</p>
 
 ### Features
 - Auto Cart
@@ -40,7 +40,7 @@
 
 ## Installation
 
-- Just, download the latest version of `SneakerBot` here,
+- Just, download the latest version of `Carlos` here,
 
 <a href="https://github.com/MBlais13" target="_blank"><img src="https://img.shields.io/badge/Download Here-1C1E23?style=for-the-badge&logo="></a>
 
