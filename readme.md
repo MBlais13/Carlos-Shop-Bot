@@ -18,7 +18,6 @@
   <!--<img src="https://img.shields.io/badge/Written%20In-Nothing-cyan?style=flat-square">--!>
 </p>
 
-
 <h1><p align="center">Sneaker Bot</p></h1>
 
 <p align="center">Sneaker Bot is a stock bot made for the Nike website. Currently this bot is for notifications and autocart only.</p>
