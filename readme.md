@@ -1,6 +1,6 @@
 <a href="https://mblais-portfolio.netlify.app/">
 <p align="center">
-  <img src="assets/CarlosBotLogo.png">
+  <img src="assets/CarlosBotCard.png">
 </p>
 </a>
 <p align="center">
@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-Yes-lightblue?style=flat-square">
   <!--<img src="https://img.shields.io/badge/Written%20In-Nothing-cyan?style=flat-square">--!>
 </p>
+
 
 <h1><p align="center">Sneaker Bot</p></h1>
 
