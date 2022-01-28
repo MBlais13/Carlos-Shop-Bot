@@ -23,6 +23,8 @@
 
 <p align="center">Carlos Bot is a stock bot made for getting the latest items. Currently this bot is for notifications and autocart only.</p>
 
+#### Development Status: Paused
+
 ### Features
 - Auto Cart
 - Discord notifications
